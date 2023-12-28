@@ -1,4 +1,5 @@
-# ScrapyKeeper
+# ScrapyKeeper v2 (fork of original, not maintained anymore, ScrapyKeeper)
+This fork provides support for python 3.12+ and maybe some bug fixes
 
 [![Latest Version](http://img.shields.io/pypi/v/SpiderKeeper.svg)](https://pypi.python.org/pypi/SpiderKeeper)
 [![Python Versions](http://img.shields.io/pypi/pyversions/SpiderKeeper.svg)](https://pypi.python.org/pypi/SpiderKeeper)
@@ -6,7 +7,7 @@
    
 A scalable admin ui for scrapy spider service 
 
-ScrapyKeeeper is a fork of [SpiderKeeper](https://github.com/DormyMo/SpiderKeeper)
+ScrapyKeeper is a fork of [SpiderKeeper](https://github.com/DormyMo/SpiderKeeper)
 
 Forked to provide:
   - Enhanced statistics (Errors, Exceptions, Retries...)
